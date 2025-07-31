@@ -83,10 +83,7 @@ Within 5 seconds, check the Wazuh Dashboard for a new alert.
 
 Wazuh Dashboard with live alerts from FIM
 
-<img width="890" height="455" alt="dashboard wazuh" src="https://github.com/user-attachments/assets/08e366d0-fa7f-44b6-a7bb-5f1820fb7bac" />
-<img width="1081" height="691" alt="wazuh image" src="https://github.com/user-attachments/assets/ebfd9df4-65c2-4c7f-9098-2379a19025d8" />
-<img width="225" height="225" alt="itsolera logo" src="https://github.com/user-attachments/assets/72574a8f-2c1b-403d-95af-7ca93aacf1a4" />
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/08e366d0-fa7f-44b6-a7bb-5f1820fb7bac" alt="Wazuh Dashboard Overview" width="800"/> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/ebfd9df4-65c2-4c7f-9098-2379a19025d8" alt="Wazuh Architecture Overview" width="800"/> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/72574a8f-2c1b-403d-95af-7ca93aacf1a4" alt="ITSolera Logo" width="180"/> </p>
 
 📚 Future Work
 Integration with Suricata for network intrusion detection
